@@ -1,6 +1,6 @@
 # Drone Flight Log Analyzer
 
-A Python tool that parses UAV flight log CSV files and generates a flight summary report with FAA compliance assessment.
+A tool that parses UAV flight log CSV files and generates a flight summary report with FAA compliance assessment.
 
 ## What it does
 
@@ -10,7 +10,7 @@ A Python tool that parses UAV flight log CSV files and generates a flight summar
 
 ## Why it matters
 
-Enterprise UAV operators need fast, reliable ways to review flight data and ensure regulatory compliance. This tool automates that process, flagging potential issues before they become incidents.
+UAV operators need fast, reliable ways to review flight data and ensure regulatory compliance. This tool automates that process, flagging potential issues before they become incidents.
 
 ## How to run it
 
